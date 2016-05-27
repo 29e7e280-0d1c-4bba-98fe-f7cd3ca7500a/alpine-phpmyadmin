@@ -1,6 +1,6 @@
 # alpine linux + php + phpmyadmin
 
-Update 2016-05-18
+Update 2016-05-27
 
 Run PHPMyAdmin with alpine + php built in web server
 
