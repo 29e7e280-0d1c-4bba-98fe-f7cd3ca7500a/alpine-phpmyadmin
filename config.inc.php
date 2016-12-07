@@ -1,5 +1,5 @@
 <?php
-$cfg['blowfish_secret'] = 'xkjdkfj2x83kx';
+$cfg['blowfish_secret'] = 'xkjdkfj2dsfsdfdfasjlkdjlkdsjfkdsjfadslkfajdkfjkldsjfdaflkdsafdx83kx';
 $i = 0;
 $i++;
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
