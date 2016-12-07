@@ -1,6 +1,6 @@
 FROM netroby/alpine-php
 
-ENV PMA_VER 4_6_4
+ENV PMA_VER 4_6_5_2
 RUN wget --no-check-certificate -c https://github.com/phpmyadmin/phpmyadmin/archive/RELEASE_$PMA_VER.tar.gz; \
         tar zxvf RELEASE_$PMA_VER.tar.gz;\
         mv phpmyadmin-RELEASE_$PMA_VER /www; \
